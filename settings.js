@@ -40,7 +40,7 @@
     // format设置
     "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
     "prettier.eslintIntegration": true,
-    "prettier.singleQuote": true,
-    "prettier.semi": false,
+    // "prettier.singleQuote": true,
+    // "prettier.semi": true,
     // "prettier.useTabs": true,
 }
