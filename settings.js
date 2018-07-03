@@ -1,9 +1,10 @@
 {
     // 以像素为单位控制字号。
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     // 基础设置
     "editor.tabSize": 2,
     "workbench.startupEditor": "welcomePage",
+    "window.title": "${activeEditorLong}${separator}${rootName}",
     "editor.quickSuggestions": {
         "strings": true
     },
